@@ -1,5 +1,5 @@
 # sql-portfolio
-SQL projects and practice queries
+This repository contains my SQL practice and projects.
 ## Skills Covered
 SELECT, WHERE
 JOINS
